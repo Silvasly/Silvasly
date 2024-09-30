@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100%" src="https://raw.githubusercontent.com/Silvasly/Silvasly/54cfe425019c634ac58d0deb36f120b402f384aa/github%20background/Background.png" align="center" alt="Silvasly's GitHub Banner" />
+ <img width="100%" src="https://github.com/Silvasly/Silvasly/blob/6e2d4ce3ef7cc315829fe75b2b600844e8e296bf/github%20background/Background.png" align="center" alt="Silvasly's GitHub Banner" />
 </p>
 
 
