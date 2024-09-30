@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on: Open Dropbox file for my internship project<br>I'm looking to collaborate on: Software and application development projects<br>I'm looking for help with: Expanding your programming skills<br>I'm currently learning: Various programming languages and technologies<br>Ask me about: Your experience with React, PHP, CSS, and database management<br>Fun fact: I love creating compact software and applications
+I'm currently working on: my internship project<br>I'm looking to collaborate on: Software and application development projects<br>I'm looking for help with: Expanding your programming skills<br>I'm currently learning: Various programming languages and technologies<br>Ask me about: Your experience with React, PHP, CSS, and database management<br>Fun fact: I love creating compact software and applications
 
 
 ## 🌐 Socials:
@@ -24,4 +24,3 @@ I'm currently working on: Open Dropbox file for my internship project<br>I'm loo
 ---
 [![](https://visitcount.itsvg.in/api?id=Silvasly&icon=2&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
