@@ -6,7 +6,7 @@
 <h3 align="center">About Me:</h3>
 
 <p align="center">
-  🔭 I'm currently working on: My internship project<br>
+  🔭 I'm currently working on: Project<br>
   👯 I'm looking to collaborate on: Software and application development projects<br>
   🤝 I'm looking for help with: Expanding my programming skills<br>
   🌱 I'm currently learning: Various programming languages and technologies<br>
@@ -20,8 +20,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://instagram.com/pale_fame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pale_fame" height="30" width="40" /></a>
-  <a href="https://twitter.com/Pale_fame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Pale_fame" height="30" width="40" /></a>
+  <a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pale_fame" height="30" width="40" /></a>
+  <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Pale_fame" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -35,7 +35,8 @@
 
 <h3 align="center">Trophies:</h3>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silvasly&theme=nord&column=7" alt="silvasly" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Silvasly&theme=nord&column=7" alt="Silvasly" />
+  
 </p>
 
 
@@ -43,7 +44,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Silvasly&show_icons=true&theme=dark" alt="Silvasly's GitHub stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Silvasly&theme=dark" alt="Silvasly's GitHub streak" />
+  <img height="180em" src="https://streak-stats.demolab.com" alt="Silvasly's GitHub streak" />
   <img src="https://github-contributor-stats.vercel.app/api?username=Silvasly&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Silvasly's contribution stats" />
 </div>
 
