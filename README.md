@@ -33,19 +33,19 @@
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
 
-<h3 align="center">Trophies:</h3>
+<h3 align="center">Quirks:</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Silvasly&theme=nord&column=7" alt="Silvasly" />
-  
+  <img src="https://img.shields.io/badge/✨-Developer-blue?style=for-the-badge" alt="Developer" />
+  <img src="https://img.shields.io/badge/💻-Full%20Stack-green?style=for-the-badge" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/🎯-Problem%20Solver-orange?style=for-the-badge" alt="Problem Solver" />
 </p>
-
 
 <h3 align="center">My GitHub Stats:</h3>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Silvasly&show_icons=true&theme=dark" alt="Silvasly's GitHub stats" />
-  <img height="180em" src="https://streak-stats.demolab.com" alt="Silvasly's GitHub streak" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=Silvasly&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Silvasly's contribution stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Silvasly&show_icons=true&theme=dark&hide_border=true" alt="Silvasly's GitHub stats" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=Silvasly&theme=dark" alt="Silvasly's GitHub streak" />
+  <img height="180em" src="https://github-contributor-stats.vercel.app/api?username=Silvasly&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Silvasly's contribution stats" />
 </div>
 
 
